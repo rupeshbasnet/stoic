@@ -1,0 +1,2 @@
+# stoic
+Daily stoic quotes
