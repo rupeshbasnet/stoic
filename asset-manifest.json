@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/stoic/static/css/main.8e86d5b6.chunk.css",
+    "main.css": "/stoic/static/css/main.6e3ef687.chunk.css",
     "main.js": "/stoic/static/js/main.86571cd6.chunk.js",
     "main.js.map": "/stoic/static/js/main.86571cd6.chunk.js.map",
     "runtime-main.js": "/stoic/static/js/runtime-main.6c479446.js",
@@ -8,13 +8,13 @@
     "static/js/2.7a18b27c.chunk.js": "/stoic/static/js/2.7a18b27c.chunk.js",
     "static/js/2.7a18b27c.chunk.js.map": "/stoic/static/js/2.7a18b27c.chunk.js.map",
     "index.html": "/stoic/index.html",
-    "static/css/main.8e86d5b6.chunk.css.map": "/stoic/static/css/main.8e86d5b6.chunk.css.map",
+    "static/css/main.6e3ef687.chunk.css.map": "/stoic/static/css/main.6e3ef687.chunk.css.map",
     "static/js/2.7a18b27c.chunk.js.LICENSE.txt": "/stoic/static/js/2.7a18b27c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6c479446.js",
     "static/js/2.7a18b27c.chunk.js",
-    "static/css/main.8e86d5b6.chunk.css",
+    "static/css/main.6e3ef687.chunk.css",
     "static/js/main.86571cd6.chunk.js"
   ]
 }
